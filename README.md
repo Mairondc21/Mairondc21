@@ -77,44 +77,15 @@
 </div>
 
 -----
+-----
 
-<details>
- <summary><strong>Um pouco mais sobre mim </strong></summary><br />
- 
- Meu nome é Ingride Reis mais conhecida como Yuut, tenho 21 anos nasci em Salvador Bahia mas atualmente estou morando no paraná, sou desenvolvedora Web e  estudo Ciência da computação na Trybe. Eu acredito que a tecnologia pode fazer a diferença na vida das pessoas e quero fazer parte dessa mudança.
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
-</details>
-  
-<div> <br> </div>
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mairondc21&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mairondc21&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mairondc21&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mairondc21&theme=github_dark"/>
+</div>
 
-![alt text](images/front-end.png)
-
-<details>
- <summary><strong>Front End</strong></summary><br />
- 
- Não tenho como negar que front é o meu xodózinho. É muito gratificante trabalhar com ele! Conseguir ver minhas ideias tomarem forma é um dos principais   motivos de ser apaixonada nessa stack. Além das tecnologias acima já utilezei algumas outras como:
-  React Router, Styled components, texting library e estudei fundamendo de UI/Ux através de um curso disponibilizado pela USP.
- 
- 
-</details>
-
-<div> <br> </div>
-
-![alt text](images/back-end.png)
-
-<details>
- <summary><strong>Back-end</strong></summary><br />
- 
-Mesmo que eu tenha preferencia por front vejo meus conhecimentos em back-end com um complemento muito importante para aplicar minhas ideias, fora as tecnologias a cima também já trabalhei com: Mongoose, json web tokens e heroku.
-
-Penso que ter uma boa noção de back-end e ciencia da computação me torna uma profissional de Front-end melhor,
-uma vez que eu saiba o que está acontecendo por trás dos panos, Api REST, database etc... fica mais fácil integrar   e interagir com quem estiver trabalhando comigo na parte do back-end.
-
- 
-</details>
-
-<div> <br> </div>
-
-![alt text](images/ferramentas.png)
-
-<div> <br> </div>
+-----
