@@ -31,7 +31,7 @@
 </table>
  
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Mairon</code>, tenho 21 anos, moro em BH e estou cursando Analise e desenvolvimento de sistemas na Newton Paiva. Atualmente sou <code>Estagiario em Analise de Dados </code> na, <a href="https://site.expertise.net.br" target="_blank">Expertise</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Mairon</code>, tenho 21 anos, moro em BH e estou cursando Analise e desenvolvimento de sistemas na Newton Paiva. Atualmente sou <code>Estagiario em Analise de Dados </code> na, <a href="https://site.expertise.net.br" target="_blank">Expertise</a>, Trabalho com Linguagens R, Python, SIS, Banco de Dados.</i> :man_teacher:<br />
 </div>
 </div>
 
