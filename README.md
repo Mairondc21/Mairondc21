@@ -83,27 +83,8 @@
 </tr> 
 </table>
 
-<img src="https://img.shields.io/badge/Linguagem%20R-entusiast-blue"/>
-<img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
-<img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
-<img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
-<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
-<br />
-<img src="https://img.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
-<img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
-<img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
-<img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
-<img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
-<img src="https://img.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
-<img src="https://img.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
-<a href="https://github.com/pythonmg" target="_blank"><img alt="Python-MG" src="https://img.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
-<img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
-<br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=mairondc21"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/mairondc21/mairondc21?logo=git"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <br />
