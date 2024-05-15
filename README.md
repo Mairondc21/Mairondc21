@@ -47,7 +47,7 @@
 <div align="justify">
 <p> 
 - :mortar_board: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Análise <br /> e Desenvolvimento de Sistemas.<br />
-- :necktie: &nbsp; Na <a href="https://site.expertise.net.br" target="_blank">Expertise</a>, atuo como <code>Estagiario em Analise de Dados</code>, responsável pela criação de dashbords e tratamento de dados<br /> . :airplane:<br />
+- :necktie: &nbsp; Na <a href="https://site.expertise.net.br" target="_blank">Expertise</a>, atuo como <code>Estagiario em Analise de Dados</code>, responsável <br />pela criação de dashbords e tratamento de dados<br /> . :airplane:<br />
 - :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
 - :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
