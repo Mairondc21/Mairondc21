@@ -49,7 +49,7 @@
 - :mortar_board: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Análise  e Desenvolvimento<br /> de Sistemas.<br />
 - :necktie: &nbsp; Na <a href="https://site.expertise.net.br" target="_blank">Expertise</a>, atuo como <code>Estagiario em Analise de Dados</code>, responsável <br />pela criação de dashbords e tratamento de dados.<br />
 - :briefcase: &nbsp; No <a href="https://www2.eb.mil.br/web/guest" target="_blank">Exercito Brasileiro</a>, atuei como <code>Aluno - Aspirante A Oficial</code>.<br />
-- :man_teacher: &nbsp; Também trabalhei como Auxiliar Administraivo na <a href="https://www.mmturismo.com.br" target="_blank">MM Turismo</a><br /> trabalhando com planilhas em excel.<br />
+- :man_teacher: &nbsp; Também trabalhei como Auxiliar Administraivo na <a href="https://www.mmturismo.com.br" target="_blank">MM Turismo</a> trabalhando <br />com planilhas em excel.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem R, SQL, Python, Power B.I <br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:duartemairon@gmail.com" target="_blank">e-mail</a> pessoal.<br />
