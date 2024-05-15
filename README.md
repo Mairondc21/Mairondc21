@@ -47,8 +47,8 @@
 <div align="justify">
 <p> 
 - :mortar_board: &nbsp;Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> no curso de Análise  e Desenvolvimento<br /> de Sistemas.<br />
-- :necktie: &nbsp; Na <a href="https://site.expertise.net.br" target="_blank">Expertise</a>, atuo como <code>Estagiario em Analise de Dados</code>, responsável <br />pela criação de dashbords e tratamento de dados<br />
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
+- :necktie: &nbsp; Na <a href="https://site.expertise.net.br" target="_blank">Expertise</a>, atuo como <code>Estagiario em Analise de Dados</code>, responsável <br />pela criação de dashbords e tratamento de dados.<br />
+- :briefcase: &nbsp; No <a href="https://www2.eb.mil.br/web/guest" target="_blank">Exercito Brasileiro</a>, atuei como <code>Aluno - Aspirante A Oficial</code> tem como missão formar o Aspirante-a-oficial da reserva 2ª classe, habilitando-o a ingressar no Corpo de Oficiais do Exército Brasileiro, bem como prepará-lo para o serviço ativo como oficial temporário
 - :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
 - :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
 - :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
