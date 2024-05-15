@@ -50,16 +50,9 @@
 - :necktie: &nbsp; Na <a href="https://site.expertise.net.br" target="_blank">Expertise</a>, atuo como <code>Estagiario em Analise de Dados</code>, responsável <br />pela criação de dashbords e tratamento de dados.<br />
 - :briefcase: &nbsp; No <a href="https://www2.eb.mil.br/web/guest" target="_blank">Exercito Brasileiro</a>, atuei como <code>Aluno - Aspirante A Oficial</code>.<br />
 - :man_teacher: &nbsp; Também trabalhei como Auxiliar Administraivo na <a href="https://www.mmturismo.com.br" target="_blank">MM Turismo</a><br /> trabalhando com planilhas em excel.<br />
-- :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
-- :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
-- :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
+- :atom: &nbsp; Sou entusiasta da Linguagem R, SQL, Python, Power B.I <br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:duartemairon@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
 </div>
