@@ -31,10 +31,9 @@
 </table>
  
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Mairon</code>, tenho 21 anos, moro em BH e estou cursando Analise e desenvolvimento de sistemas na Newton Paiva. Atualmente sou <code>Estagiario em Analise de Dados </code> na, <a href="https://site.expertise.net.br" target="_blank">Expertise</a>.</i> :man_teacher:<br />
 </div>
 </div>
-
 
 -----
 
